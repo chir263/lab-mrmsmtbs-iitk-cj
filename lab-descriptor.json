@@ -19,14 +19,14 @@
       "deploy": true
     },
     {
-      "name": "Selection of Obstacle Distance (ÃÂ», grain boundary or precipitate)",
+      "name": "Selection of Obstacle Distance (ÃÂÃÂ», grain boundary or precipitate)",
       "short-name": "obstacle-distance",
       "repo": "https://github.com/virtual-labs/exp-obstacle-distance-iitk",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Selection of Obstacle Density (ÃÂ,number of grains/precipitate)",
+      "name": "Selection of Obstacle Density (ÃÂÃÂ,number of grains/precipitate)",
       "short-name": "obstacle-density",
       "repo": "https://github.com/virtual-labs/exp-obstacle-density-iitk",
       "tag": "v1.0.2",
@@ -99,5 +99,5 @@
   },
   "exp_name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
   "exp_short_name": "solid-oxide-fuel-cell-new",
-  "version": "v1.5.4"
+  "version": "v1.5.5"
 }
