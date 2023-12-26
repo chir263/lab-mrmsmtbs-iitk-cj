@@ -19,14 +19,14 @@
       "deploy": true
     },
     {
-      "name": "Selection of Obstacle Distance (λ, grain boundary or precipitate)",
+      "name": "Selection of Obstacle Distance (Î», grain boundary or precipitate)",
       "short-name": "obstacle-distance",
       "repo": "https://github.com/virtual-labs/exp-obstacle-distance-iitk",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Selection of Obstacle Density (ρ,number of grains/precipitate)",
+      "name": "Selection of Obstacle Density (Ï,number of grains/precipitate)",
       "short-name": "obstacle-density",
       "repo": "https://github.com/virtual-labs/exp-obstacle-density-iitk",
       "tag": "v1.0.2",
@@ -83,8 +83,12 @@
     }
   ],
   "targetAudience": {
-    "UG": ["Students of Material Science and Engineering"],
-    "PG": ["Students of Material Science and Engineering"]
+    "UG": [
+      "Students of Material Science and Engineering"
+    ],
+    "PG": [
+      "Students of Material Science and Engineering"
+    ]
   },
   "objective": "The main objective is to observe the surface properties via the wetting behavior of material or extracting the biological response to the surface of biomaterial. In addition ionic conductivity dependence on the composition of material is explained here with.",
   "courseAlignment": {
